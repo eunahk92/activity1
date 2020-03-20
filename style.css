@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+    background-color: black;
+    color: lightgrey;
+    margin: 0;
+    padding: 10px;
+}
+body {
+    margin: 30px;
+}
+section {
+    float: left;
+}
